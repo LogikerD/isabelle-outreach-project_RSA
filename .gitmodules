@@ -1,0 +1,3 @@
+[submodule "isabelle-theory-utilities"]
+	path = isabelle-theory-utilities
+	url = https://github.com/LogikerD/isabelle-theory-utilities.git
