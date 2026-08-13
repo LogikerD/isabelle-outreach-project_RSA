@@ -1,4 +1,4 @@
 group_tasks/
 *~
 *.pdf
-*.scala
+make_group_tasks.scala
