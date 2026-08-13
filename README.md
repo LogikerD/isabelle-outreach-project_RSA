@@ -33,4 +33,4 @@ Topics for pairs:
 
 ## Generating the Individual Tasks for the Groups
 
-The Scala script [`make_group_tasks.scala`](../isabelle-theory-utilities/make_group_tasks.scala) deletes the sample solutions. Follow the instructions in the script.
+The Scala script [`make_group_tasks.scala`](https://github.com/LogikerD/isabelle-theory-utilities/blob/7d6dbfeb9bed53d0943e0aec72513d230c243fe1/make_group_tasks.scala) deletes the sample solutions. Follow the instructions in the script.
